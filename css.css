@@ -1,0 +1,754 @@
+.number1{
+    background-image: url('../FashionBlog/img/sparklybackground.jpg') ;
+    height: 4000px;
+
+}
+.number2{
+    background-image: url("../FashionBlog/img/darkpurplebg.jpg");
+    height: 4300px;
+
+}
+.number3{
+    height: 2000px;
+    background-image: url("../FashionBlog/img/purplebackground.jpg") ;
+
+}
+.number4{
+    background-image: url("../FashionBlog/img/techbg.jpg");
+    height: 3000px;
+}
+h1{
+    color: #eeecea;
+    word-spacing: 5px;
+    margin-left: 74px;
+    margin-top: -66px;
+    font-size: 39px;
+}
+.silverbox{
+    background-image: url("../FashionBlog/img/bluebackground.jpg");
+    width:  774px;
+    height: 91px;
+    border-radius: 100px;
+    border: 6px solid white;
+    font-weight: bold;
+    margin-left: 680px;
+    margin-top: 50px;
+    color: white;
+
+
+}
+.silverbox ul{
+    display: flex;
+    background: black;
+    width: 600px;
+    height: 57px;
+    margin-left: 25px;
+    list-style: none;
+    border-radius: 50px;
+
+}
+.silverbox li{
+    margin-left: 32px;
+    margin-top: 17px;
+}
+.silverbox li a{
+    text-decoration: none;
+    color: white;
+}
+.silverbox1{
+    background-image: url("../FashionBlog/img/goldenbg.jpg");
+    width:  774px;
+    height: 91px;
+    border-radius: 100px;
+    border: 4px solid #2a1529;
+    font-weight: bold;
+    margin-left: 680px;
+    margin-top: 50px;
+    color: #15090b;
+}
+.silverbox1 ul{
+    display: flex;
+
+    width: 600px;
+    height: 46px;
+    margin-left: 22px;
+    list-style: none;
+}
+.silverbox1 li{
+    margin-left: 32px;
+    margin-top: 17px;
+
+}
+.silverbox1 li a{
+    text-decoration: none;
+    color: #c3c9c9;
+}
+.silverbox a:hover{
+background-image: url('../FashionBlog/img/bluebackground.jpg');
+    color: pink;
+}
+.silverbox2{
+    background-image: url("../FashionBlog/img/redbg.jpg");
+    width:  774px;
+    height: 91px;
+    border-radius: 100px;
+    border: 4px solid #2a1529;
+    font-weight: bold;
+    margin-left: 680px;
+    margin-top: 50px;
+    color: #15090b;
+
+}
+.silverbox2 ul{
+    display: flex;
+
+    width: 600px;
+    height: 46px;
+    margin-left: 22px;
+    list-style: none;
+}
+.silverbox2 li{
+    margin-left: 32px;
+    margin-top: 17px;
+
+}
+.silverbox2 li a{
+    text-decoration: none;
+    color: #c3c9c9;
+}
+.silverbox2 a:hover{
+    background-image: url("../FashionBlog/img/darkbluebg.jpg");
+}
+.silverbox3{
+    background-image: url("../FashionBlog/img/purplebackground.jpg");
+    width:  774px;
+    height: 91px;
+    border-radius: 100px;
+    border: 1px solid   #6d97d8;
+    font-weight: bold;
+    margin-left: 680px;
+    margin-top: 50px;
+    color: #15090b;
+}
+.silverbox3 ul{
+    display: flex;
+
+    width: 600px;
+    height: 46px;
+    margin-left: 22px;
+    list-style: none;
+}
+.silverbox3 li{
+    margin-left: 32px;
+    margin-top: 17px;
+
+}
+.silverbox3 li a{
+    text-decoration: none;
+    color: #c3c9c9;
+}
+.silverbox3 a:hover{
+    background-image: url("../FashionBlog/img/darkbluebg.jpg");
+color: #9660e7;
+}
+.blog{
+    color: #c3be9a;
+}
+.blog2{
+    color: #fdf6e8;
+
+}
+.blog3{
+    color: #e2e5eb;
+}
+.latest h2{
+    color: white;
+    margin-left: 211px;
+
+}
+.latest1{
+    color: #c3be9a;
+    margin-left: 117px;
+
+}
+.latest2{
+    color: #fdf6e8;
+    margin-left: 213px;
+}
+.latest3{
+    color: #e2e5eb;
+    margin-left: 176px;
+}
+.silverbox1 a:hover{
+    background-image: url("../FashionBlog/img/darkpurplebg.jpg");
+
+}
+.line{
+    background-image: url("../FashionBlog/img/pinkbg.jpg");
+    width: 1500px;
+    height: 16px;
+    margin-top: 50px;
+
+}
+.outfits h2{
+    color: white;
+    margin-left: 691px;
+}
+.tops ul{
+    display: flex;
+    align-items: baseline;
+
+}
+.tops li{
+    padding-left: 14px;
+    position: relative;
+    right: 28px;
+}
+.tops h2{
+    color:white;
+    margin-left: 717px;
+    text-decoration: 3px solid #97727b underline;
+}
+.w&b li{
+    margin-bottom: 20px;
+}
+
+.blue li:first-of-type{
+    background: #212429;
+    border: 3px solid pink;
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+
+
+}
+.blue ul{
+    padding-left: 50px;
+    display: flex;
+    align-items: baseline;
+    margin-left: 480px;
+    margin-top: 60px;
+
+}
+
+
+.bottoms{
+    color: #eeecea;
+}
+.bottoms ul{
+    display: flex;
+    align-items: baseline;
+
+
+}
+.bottoms li {
+    padding-left: 20px;
+    margin-top: 80px;
+    margin-left: 28px;
+
+
+}
+.number1 img{
+    border-radius: 40px;
+
+
+}
+.text{
+    margin-top: -367px;
+    margin-left: 589px;
+}
+.bubble{
+    background-image: url("../FashionBlog/img/starbackground.jpg");
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+    margin-left: 893px;
+    position: relative;
+    bottom: 346px;
+
+}
+.blackbox{
+    background: #212429;
+    width: 430px;
+    height: 230px;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid pink;
+    top: 32px;
+    left: 33px;
+
+}
+
+.bubble2{
+    background-image: url(../FashionBlog/img/starbackground.jpg);
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+    position: relative;
+    top: 900px;
+    left: 500px;
+}
+.blackbox2{
+    background: #212429;
+    width: 430px;
+    height: 230px;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid pink;
+    top: 32px;
+    left: 33px;
+}
+.skirts ul{
+    display: flex;
+    float: right;
+    position: relative;
+    bottom: 220px;
+}
+.skirts li{
+    padding-right: 40px;
+}
+.line1{
+    background-image: url("../FashionBlog/img/pinkbg.jpg");
+    width: 1500px;
+    height: 16px;
+    margin-top: 250px;
+
+}
+.bubble1{
+    background-image: url("../FashionBlog/img/starbackground.jpg");
+
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+    margin-left: 100px;
+    position: relative;
+    bottom: 600px;
+    float: left;
+    right: 50px;
+}
+.blackbox1{
+    background: #212429;
+    width: 430px;
+    height: 230px;
+    border-radius: 50%;
+    position: relative;
+    top: 32px;
+    left: 33px;
+    float: left;
+    border: 1px solid pink;
+
+}
+.bags h2{
+    color: white;
+}
+.bags ul{
+    display: flex;
+    align-items: baseline;
+    float: left;
+}
+.bags li{
+    padding-right: 20px;
+    position: relative;
+    bottom: 300px;
+    left: 40px;
+}
+
+p{
+    color: white;
+}
+.neri h2{
+    color: white;
+    margin-left: 600px;
+    margin-bottom: 50px;
+
+
+}
+.iris h2{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    margin-top: 50px;
+}
+.anrealage h2{
+    color: white;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+}
+.best ul {
+    display: flex;
+    align-items: baseline;
+}
+.best li{
+    padding-right: 30px;
+
+}
+
+.best li p{
+    margin-left: 40px;
+    display: flex;
+    align-items: baseline;
+}
+.matfavourite{
+    background: #91c4a3;
+    width: 200px;
+    text-indent: 27px;
+    height: 59px;
+    text-align: center;
+    border-radius: 26px;
+    display: flex;
+    align-items: center;
+    color: darkblue;
+    font-weight: bold;
+}
+.number3 img{
+    border-radius: 10px;
+}
+
+.festival ul{
+    display: flex;
+    align-items: baseline;
+}
+.festival li{
+    padding-right: 80px;
+    margin-left: 70px;
+    margin-top: 60px;
+
+}
+.festival li p{
+    margin-left: 40px;
+}
+
+.met h2{
+    color: white;
+    margin-top: 160px;
+    margin-left: 600px;
+}
+.met p{
+    margin-left: 200px;
+}
+.best p{
+    margin-left: 600px;
+    margin-bottom: 60px;
+}
+
+.cannes h2{
+    color: white;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.favourite{
+    margin-left: 650px;
+    background: #85142c;
+    width: 200px;
+    text-indent: 27px;
+    height: 59px;
+    text-align: center;
+    border-radius: 26px;
+    display: flex;
+    align-items: center;
+}
+.anrealage ul{
+    display: flex;
+    align-items: baseline;
+}
+.anrealage li{
+    padding-right: 80px;
+
+}
+.explanation{
+position: relative;
+    bottom:280px;
+    left: 350px;
+    width: 600px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 30px;
+    text-align: center;
+}
+.neri ul{
+    display: flex;
+    align-items: baseline;
+    float: right;
+}
+.neri li{
+    padding-right: 20px;
+
+}
+.mushtari{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    margin-left: 50px;
+    font-size: 13px;
+    width: 500px;
+    text-align: center;
+}
+.design{
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.neriintro{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    margin-left: 30px;
+    font-size: 13px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+.dress{
+  position: relative;
+    top: -156px;
+    margin-left: 500px;
+    width: 800px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 13px;
+    text-align: center;
+
+
+}
+.dressimg{
+    margin-left: 50px;
+    margin-bottom: 200px;
+    position: relative;
+    bottom: 280px;
+    top: -500px;
+}
+.volt{
+    position: relative;
+    top: 100px;
+    margin-left: 100px;
+    width: 800px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 13px;
+    text-align: center;
+}
+.voltdressimg{
+    position: relative;
+    left: 1000px;
+    top: -156px;
+}
+.neri{
+  position: relative;
+    bottom: 593px;
+}
+.intro{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 13px;
+    text-align: center;
+    width: 1400px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.threedprinting p{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 60px;
+}
+.anrealage{
+    margin-top: -700px;
+}
+ul.gown{
+    display: flex;
+    align-items: baseline;
+}
+.gown li{
+    padding-right: 600px;
+}
+ul.otherlooks{
+    display: flex;
+    align-items: baseline;
+}
+.number2 .gown img{
+    border-radius: 50%;
+    border: 3px solid #c2bd99;
+}
+.otherlooks li{
+    padding-right: 20px;
+    margin-top: 60px;
+
+}
+.otherlooks img{
+    border-radius: 100px;
+    border: 3px solid #c2bd99;
+}
+ul.whitegown{
+    display: flex;
+    align-items: baseline;
+}
+.whitegown li{
+    padding-right: 100px;
+    margin-top: 100px;
+}
+.whitegown img{
+    border: 3px solid #c2bd99;
+    border-radius: 10px;
+}
+ul.therest{
+    display: flex;
+    align-items: baseline;
+}
+.therest li{
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.therest img{
+    border-radius: 20px;
+    border: 3px solid #c2bd99;
+}
+ul.part1 {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+.part1 li{
+    padding-right: 100px;
+    margin-top: 50px;
+}
+ul.part2 {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+}
+.part2 li{
+    padding-right: 100px;
+    margin-top: 300px;
+    margin-bottom: 200px;
+}
+.part2 img,.part1 img{
+    border-radius: 50px;
+    border: 3px solid #c2bd99;
+}
+.lagerfeld{
+    color: #c3be9a;
+    font-weight: bold;
+    text-decoration: underline  #c3be9a;
+    text-transform: uppercase;
+    font-size: 27px;
+    margin-left: 600px;
+    margin-top: 150px;
+
+}
+.westwood{
+    color: #c3be9a;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline  #c3be9a;
+    font-size: 27px;
+    margin-left: 600px;
+   position: relative;
+    bottom: 80px;
+}
+.john{
+    color: #c3be9a;
+    text-decoration: underline  #c3be9a;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 27px;
+    margin-left: 600px;
+   margin-top: 180px;
+}
+.biographykarl{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 18px;
+    text-align: center;
+    width: 1400px;
+    margin-left: 50px;
+    margin-top: 100px;
+    color: #c3be9a;;
+}
+.viviennebio{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 18px;
+    text-align: center;
+    width: 600px;
+    color: #c3be9a;
+    position: relative;
+    bottom: 500px;
+    margin-left: 430px;
+}
+.viviennebio2{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 18px;
+    text-align: center;
+    width: 600px;
+    color: #c3be9a;
+    position: relative;
+    bottom: 450px;
+    margin-left: 430px;
+}
+.gallianobio{
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 26px;
+    font-size: 18px;
+    text-align: center;
+    width: 1400px;
+    color: #c3be9a;
+    position: relative;
+    bottom: 385px;
+    right: 30px;
+}
+.bubble2 p{
+    text-transform: uppercase;
+    text-align: center;
+    width: 300px;
+    position: relative;
+    bottom: 1070px;
+    margin-left: 80px;
+}
+.bubble1 p{
+    text-transform: uppercase;
+    text-align: center;
+    width: 400px;
+    position: relative;
+    margin-left: 80px;
+    height: 100px;
+    right: 62px;
+    top: 32px;
+}
+.bubble p{
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: 24px;
+    left: 36px;
+    width: 368px;
+}
+.blue p{
+    text-transform: uppercase;
+    text-align: center;
+    position: relative;
+    top: 80px;
+    width: 303px;
+    left: 72px;
+
+}
+body > div.bottoms > h2{
+    margin-left: 650px;
+}
+.shoes\&bags{
+    position: relative;
+    left: 650px;
+}
